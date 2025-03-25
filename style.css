@@ -180,3 +180,14 @@ body {
     
     
     }
+@media screen and (max-width:396px) {
+        
+    .vista{
+        transform: translate(250px, -66px);
+        
+    }
+    
+    
+    
+    
+    }
